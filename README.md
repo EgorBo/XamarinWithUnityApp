@@ -4,4 +4,7 @@ So you can now easily add a Unity scene (e.g. ARCore scene) to any native or Xam
 
 ![Screenshot](screenshot.gif)
 
-The Unity `*.aar` file with this simple scene is 17 mb. So the total APK size for this sample is 26mb. 
+# Size (armv7a)
+Unity stuff (`*.aar`): 16.2Mb
+Xamarin stuff: 8Mb
+Total APK size: 24.2Mb (IL Link + proGuard)
